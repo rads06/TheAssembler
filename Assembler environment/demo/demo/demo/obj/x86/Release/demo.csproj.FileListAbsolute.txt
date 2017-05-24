@@ -1,0 +1,33 @@
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\whateverIWant.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\SpriteFont1.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MS Quartz.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TerminalFont.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main Game.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TitleScreen.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Time Running Out.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\A0-B3.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\A0393.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\C3-302.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\DII.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Door.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MK-00.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MX-01.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MX-02.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Power.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Title Image.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Vent.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Darkness.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\CompCons.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Crosshair.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\SlotBG.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\O2 Reg.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main Game.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TitleScreen.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Time Running Out.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\demo.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\demo.pdb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Release\demo.csprojResolveAssemblyReference.cache
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Release\demo.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Release\demo.pdb

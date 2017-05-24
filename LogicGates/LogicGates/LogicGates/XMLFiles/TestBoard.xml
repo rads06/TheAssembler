@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Board Name="TestBoard">
+  <Slot Name="A" Type="INHI" X="100" Y="100" Inputs="" />
+  <Slot Name="B" Type="INLO" X="300" Y="100" Inputs="" />
+  <Slot Name="C" Type="AND" X="100" Y="300" Inputs="A,B" />
+  <Slot Name="D" Type="OUT" X="300" Y="300" Inputs="C" />
+</Board>

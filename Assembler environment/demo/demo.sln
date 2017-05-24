@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheAssemblerDemo", "demo\demo\TheAssemblerDemo.csproj", "{9FCB75C3-B619-4219-9A8E-72F9F87E025A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoContent", "demo\demoContent\demoContent.contentproj", "{2D2DFE17-740A-41AB-BB5A-C9091A16F4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCB75C3-B619-4219-9A8E-72F9F87E025A}.Debug|x86.ActiveCfg = Debug|x86
+		{9FCB75C3-B619-4219-9A8E-72F9F87E025A}.Debug|x86.Build.0 = Debug|x86
+		{9FCB75C3-B619-4219-9A8E-72F9F87E025A}.Release|x86.ActiveCfg = Release|x86
+		{9FCB75C3-B619-4219-9A8E-72F9F87E025A}.Release|x86.Build.0 = Release|x86
+		{2D2DFE17-740A-41AB-BB5A-C9091A16F4C0}.Debug|x86.ActiveCfg = Debug|x86
+		{2D2DFE17-740A-41AB-BB5A-C9091A16F4C0}.Debug|x86.Build.0 = Debug|x86
+		{2D2DFE17-740A-41AB-BB5A-C9091A16F4C0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

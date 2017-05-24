@@ -1,0 +1,58 @@
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\LogicGates.exe
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\LogicGates.pdb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\obj\x86\Debug\LogicGates.exe
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\obj\x86\Debug\LogicGates.pdb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Gate.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Hand.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Slot.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A Receiver.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0-B3.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0393.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\C3-302.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\CompCons.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII Receiver 2.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII Receiver.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Door.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Main.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MK Receiver.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MK-00.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX Receiver.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-01.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-02.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Power.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Title Screen.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Vent.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\SlotBG.xnb
+C:\Users\Lee\Documents\GitHub\TheAssembler\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Crosshair.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\LogicGates.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\LogicGates.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\obj\x86\Debug\LogicGates.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\obj\x86\Debug\LogicGates.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\whateverIWant.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\TerminalFont.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Main Game.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Time Running Out.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0-B3.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0393.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\C3-302.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Door.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MK-00.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-01.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-02.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Power.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Title Image.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Vent.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Darkness.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\CompCons.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Main.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Main Game.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\TitleScreen.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Time Running Out.wma

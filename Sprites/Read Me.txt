@@ -1,0 +1,37 @@
+
+Chip Sprites: Grab/Snap at (88,85)
+
+Receiver locations on Vents:
+
+				V0(408,169)INV
+V5(233,189)Xor V4(303,188)INV			V1(567,194)INV
+				V3(418,255)XOR
+
+						V2(600,307)MUX
+	     V6(287,311)INV
+V8(201,330)AND
+
+		V7(340,397)AND
+
+Receiver locations on Power:
+(645,214)INV
+
+Receiver Locations on O2 Regulator:
+Adder Part:
+NAME:	INPUT:		LOCATION:	FUNCTION:
+V1	|A,B|		(246,136)	XOR
+V2	|V1,C|		(361,150)	XOR
+V3	|C,V1|		(448,190)	AND
+V4	|V3,V5|		(655,182)	AND
+V5	|B,A|		(533,224)	OR
+
+Subtractor Part:
+NAME:	INPUT:		LOCATION:	FUNCTION:
+V6	|B|		(157,286)	INV
+V7	|B,A|		(246,286)	XOR
+V8	|V7,C|		(361,300)	XOR
+V9	|V7|		(311,393)	INV
+V10	|C,V9|		(448,340)	AND
+V11	|V6,A|		(533,374)	AND
+V12	|V11,V10|	(655,332)	OR
+V13	|V8|		(691,257)	INV

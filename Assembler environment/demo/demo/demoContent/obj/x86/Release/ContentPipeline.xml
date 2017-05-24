@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>whateverIWant.spritefont</Source>
+      <Name>whateverIWant</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\whateverIWant.xnb</Output>
+      <Time>2012-12-07T09:06:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2012-12-11T20:48:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MS Quartz.spritefont</Source>
+      <Name>MS Quartz</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MS Quartz.xnb</Output>
+      <Time>2012-12-12T09:29:12.826888-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TerminalFont.spritefont</Source>
+      <Name>TerminalFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TerminalFont.xnb</Output>
+      <Time>2012-12-18T20:58:47-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Game.mp3</Source>
+      <Name>Main Game</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main Game.xnb</Output>
+      <Extra>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main Game.wma</Extra>
+      <Time>2012-12-09T18:44:32.7384259-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen.mp3</Source>
+      <Name>TitleScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TitleScreen.xnb</Output>
+      <Extra>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\TitleScreen.wma</Extra>
+      <Time>2012-12-09T18:44:32.7824284-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Time Running Out.mp3</Source>
+      <Name>Time Running Out</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Time Running Out.xnb</Output>
+      <Extra>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Time Running Out.wma</Extra>
+      <Time>2012-12-11T18:25:45.9741798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>A0-B3.png</Source>
+      <Name>A0-B3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\A0-B3.xnb</Output>
+      <Time>2012-12-09T18:54:48.9686723-05:00</Time>
+    </Item>
+    <Item>
+      <Source>A0393.png</Source>
+      <Name>A0393</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\A0393.xnb</Output>
+      <Time>2012-12-09T18:54:48.9746726-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C3-302.png</Source>
+      <Name>C3-302</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\C3-302.xnb</Output>
+      <Time>2012-12-09T18:54:48.9856732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DII.png</Source>
+      <Name>DII</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\DII.xnb</Output>
+      <Time>2012-12-09T18:54:49.0246755-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Door.png</Source>
+      <Name>Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Door.xnb</Output>
+      <Time>2012-12-09T18:54:49.0406764-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MK-00.png</Source>
+      <Name>MK-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MK-00.xnb</Output>
+      <Time>2012-12-09T18:54:49.069678-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MX-01.png</Source>
+      <Name>MX-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MX-01.xnb</Output>
+      <Time>2012-12-09T18:54:49.0766784-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MX-02.png</Source>
+      <Name>MX-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\MX-02.xnb</Output>
+      <Time>2012-12-09T18:54:49.0796786-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Power.png</Source>
+      <Name>Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Power.xnb</Output>
+      <Time>2012-12-09T18:54:49.0946795-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Title Image.bmp</Source>
+      <Name>Title Image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Title Image.xnb</Output>
+      <Time>2012-12-09T18:54:49.1376819-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Vent.png</Source>
+      <Name>Vent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Vent.xnb</Output>
+      <Time>2012-12-09T18:54:49.1596832-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Darkness.bmp</Source>
+      <Name>Darkness</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Darkness.xnb</Output>
+      <Time>2012-12-09T19:44:02.1555849-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CompCons.png</Source>
+      <Name>CompCons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\CompCons.xnb</Output>
+      <Time>2012-12-11T18:59:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crosshair.png</Source>
+      <Name>Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Crosshair.xnb</Output>
+      <Time>2012-12-11T20:47:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SlotBG.png</Source>
+      <Name>SlotBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\SlotBG.xnb</Output>
+      <Time>2012-12-11T20:49:19-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main.png</Source>
+      <Name>Main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\Main.xnb</Output>
+      <Time>2012-12-12T13:38:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>O2 Reg.png</Source>
+      <Name>O2 Reg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\O2 Reg.xnb</Output>
+      <Time>2012-12-18T13:01:30-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demoContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demoContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-12T13:22:48.2269266-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+C:\Users\Lee\Documents\GitHub\TheAssembler\LMCTerminal\LMCTerminal\LMCTerminalContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\LMCTerminal\LMCTerminal\LMCTerminalContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\CMPT 280 Final Project\LMCTerminal\LMCTerminal\LMCTerminalContent\obj\x86\Debug\LMCTerminalContent.contentprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\LMCTerminal\LMCTerminal\LMCTerminalContent\obj\x86\Debug\ResolveAssemblyReference.cache

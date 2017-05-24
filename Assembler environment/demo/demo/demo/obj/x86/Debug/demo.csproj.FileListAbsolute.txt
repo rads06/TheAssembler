@@ -1,0 +1,139 @@
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\whateverIWant.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.exe
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.pdb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.pdb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.pdb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0-B3.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0393.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\C3-302.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\CompCons.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\DII.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Door.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MK-00.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-01.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-02.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Power.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Title Image.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Vent.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Darkness.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\whateverIWant.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0-B3.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0393.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\C3-302.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\CompCons.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\DII.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Door.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MK-00.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-01.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-02.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Power.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Title Image.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Vent.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Darkness.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.wma
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\whateverIWant.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0-B3.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0393.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\C3-302.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\CompCons.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\DII.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Door.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MK-00.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-01.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-02.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Power.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Title Image.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Vent.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Darkness.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TerminalFont.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Crosshair.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SlotBG.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\whateverIWant.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TerminalFont.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0-B3.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\A0393.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\C3-302.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\DII.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Door.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MK-00.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-01.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MX-02.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Power.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Title Image.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Vent.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Darkness.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\CompCons.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Crosshair.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SlotBG.xnb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Main Game.wma
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.wma
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.wma
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.exe
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\demo.pdb
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Documents and Settings\Lee\My Documents\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\obj\x86\Debug\demo.pdb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TerminalFont.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Crosshair.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SlotBG.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MS Quartz.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MS Quartz.xnb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\O2 Reg.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\O2 Reg.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\MS Quartz.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TerminalFont.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Crosshair.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\SlotBG.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\O2 Reg.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\TitleScreen.wma
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Time Running Out.wma
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P1.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P2.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P3.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P1.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P2.xnb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Manual - P3.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Burnt Out System ALU.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\BurntOut O2.xnb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\demo\demo\demo\bin\x86\Debug\Content\Toolbox.xnb

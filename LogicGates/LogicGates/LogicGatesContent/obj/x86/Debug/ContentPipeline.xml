@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Gate.png</Source>
+      <Name>Gate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Gate.xnb</Output>
+      <Time>2012-12-03T11:22:40.3875256-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Hand.png</Source>
+      <Name>Hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Hand.xnb</Output>
+      <Time>2012-12-03T11:22:40.3925259-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Slot.png</Source>
+      <Name>Slot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Slot.xnb</Output>
+      <Time>2012-12-03T11:22:40.395526-05:00</Time>
+    </Item>
+    <Item>
+      <Source>A Receiver.png</Source>
+      <Name>A Receiver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A Receiver.xnb</Output>
+      <Time>2012-12-11T12:42:01.3360365-05:00</Time>
+    </Item>
+    <Item>
+      <Source>A0-B3.png</Source>
+      <Name>A0-B3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0-B3.xnb</Output>
+      <Time>2012-12-11T12:42:01.3380366-05:00</Time>
+    </Item>
+    <Item>
+      <Source>A0393.png</Source>
+      <Name>A0393</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\A0393.xnb</Output>
+      <Time>2012-12-11T12:42:01.3400368-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C3-302.png</Source>
+      <Name>C3-302</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\C3-302.xnb</Output>
+      <Time>2012-12-11T12:42:01.3430369-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CompCons.png</Source>
+      <Name>CompCons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\CompCons.xnb</Output>
+      <Time>2012-12-11T12:42:01.344037-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DII Receiver 2.png</Source>
+      <Name>DII Receiver 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII Receiver 2.xnb</Output>
+      <Time>2012-12-11T12:42:01.2940341-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DII Receiver.png</Source>
+      <Name>DII Receiver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII Receiver.xnb</Output>
+      <Time>2012-12-11T12:42:01.2970343-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DII.png</Source>
+      <Name>DII</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\DII.xnb</Output>
+      <Time>2012-12-11T12:42:01.3010345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Door.png</Source>
+      <Name>Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Door.xnb</Output>
+      <Time>2012-12-11T12:42:01.3040347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main.png</Source>
+      <Name>Main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Main.xnb</Output>
+      <Time>2012-12-11T12:42:01.3070349-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MK Receiver.png</Source>
+      <Name>MK Receiver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MK Receiver.xnb</Output>
+      <Time>2012-12-11T12:42:01.310035-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MK-00.png</Source>
+      <Name>MK-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MK-00.xnb</Output>
+      <Time>2012-12-11T12:42:01.3140353-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MX Receiver.png</Source>
+      <Name>MX Receiver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX Receiver.xnb</Output>
+      <Time>2012-12-11T12:42:01.3180355-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MX-01.png</Source>
+      <Name>MX-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-01.xnb</Output>
+      <Time>2012-12-11T12:42:01.3210357-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MX-02.png</Source>
+      <Name>MX-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\MX-02.xnb</Output>
+      <Time>2012-12-11T12:42:01.3250359-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Power.png</Source>
+      <Name>Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Power.xnb</Output>
+      <Time>2012-12-11T12:42:01.3280361-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Title Screen.bmp</Source>
+      <Name>Title Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Title Screen.xnb</Output>
+      <Time>2012-12-11T12:42:01.3320363-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Vent.png</Source>
+      <Name>Vent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Vent.xnb</Output>
+      <Time>2012-12-11T12:42:01.3340364-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SlotBG.png</Source>
+      <Name>SlotBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\SlotBG.xnb</Output>
+      <Time>2012-12-11T17:59:58.0160867-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crosshair.png</Source>
+      <Name>Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\Crosshair.xnb</Output>
+      <Time>2012-12-11T18:03:08.3019705-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-12-11T15:13:52.7369878-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGatesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGatesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Lee\Dropbox\CMPT 280 Final Project\LogicGates\LogicGates\LogicGates\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-29T09:22:45.3440897-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

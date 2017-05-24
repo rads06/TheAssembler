@@ -1,0 +1,21 @@
+C:\Users\Thomas\Dropbox\visual studio\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\visual studio\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.exe
+C:\Users\Thomas\Dropbox\visual studio\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.pdb
+C:\Users\Thomas\Dropbox\visual studio\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.exe
+C:\Users\Thomas\Dropbox\visual studio\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.exe
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.pdb
+C:\Users\Lee\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.pdb
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.exe
+D:\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.pdb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.exe
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.pdb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.exe
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\bin\Debug\AssemblerEnvironment.pdb
+C:\Users\Thomas\Dropbox\CMPT 280 Final Project\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lee.HAL\My Documents\Dropbox\CMPT 280 Final Project\CMPT 280\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.exe
+C:\Documents and Settings\Lee.HAL\My Documents\Dropbox\CMPT 280 Final Project\CMPT 280\Assembler environment\AssemblerEnvironment\AssemblerEnvironment\obj\x86\Debug\AssemblerEnvironment.pdb

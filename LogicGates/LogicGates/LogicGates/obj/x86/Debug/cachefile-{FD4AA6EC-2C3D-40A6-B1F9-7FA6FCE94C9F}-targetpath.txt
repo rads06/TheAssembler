@@ -1,0 +1,24 @@
+Content\Gate.xnb
+Content\Hand.xnb
+Content\Slot.xnb
+Content\A Receiver.xnb
+Content\A0-B3.xnb
+Content\A0393.xnb
+Content\C3-302.xnb
+Content\CompCons.xnb
+Content\DII Receiver 2.xnb
+Content\DII Receiver.xnb
+Content\DII.xnb
+Content\Door.xnb
+Content\Main.xnb
+Content\MK Receiver.xnb
+Content\MK-00.xnb
+Content\MX Receiver.xnb
+Content\MX-01.xnb
+Content\MX-02.xnb
+Content\Power.xnb
+Content\Title Screen.xnb
+Content\Vent.xnb
+Content\SlotBG.xnb
+Content\Crosshair.xnb
+Content\SpriteFont1.xnb
